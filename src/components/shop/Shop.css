@@ -1,0 +1,20 @@
+/* .shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.products-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 45px;
+    margin: 50px;
+    
+} */
+/* @media screen and (min-width: 480px){
+    .products-container{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        row-gap: 60px;
+        margin: 50px;
+    }    
+  }
+   */
